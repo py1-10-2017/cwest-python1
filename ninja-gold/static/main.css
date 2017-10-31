@@ -1,0 +1,15 @@
+*{
+	background-color: #d1e0b8;
+	text-align: center;
+}
+.four {
+	width: 20%;
+	border: 2px solid brown;
+	margin: 20px;
+	background-color:white;
+	display: inline-block;
+	text-align: center;
+}
+#score {
+	margin-left:50%;
+}
